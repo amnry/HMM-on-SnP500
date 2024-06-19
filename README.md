@@ -1,4 +1,4 @@
-S&P 500 Stock Price Prediction Using Gaussian Mixture Models
+# S&P 500 Stock Price Prediction Using Gaussian Mixture Models
 <br>
 This project utilizes Gaussian Mixture Models (GMM) to predict the closing prices of S&P 500 stocks for the next 14 days. The methodology follows the approach described in the paper "Hidden Markov Models for Stock Market Prediction."
 
